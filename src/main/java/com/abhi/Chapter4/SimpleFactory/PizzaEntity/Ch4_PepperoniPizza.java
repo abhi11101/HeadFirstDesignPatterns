@@ -1,4 +1,4 @@
-package com.abhi.Chapter4.PizzaEntity;
+package com.abhi.Chapter4.SimpleFactory.PizzaEntity;
 
 public class Ch4_PepperoniPizza extends Ch4_Pizza{
 

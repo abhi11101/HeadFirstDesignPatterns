@@ -1,4 +1,4 @@
-package com.abhi.Chapter4.PizzaEntity;
+package com.abhi.Chapter4.SimpleFactory.PizzaEntity;
 
 public abstract class Ch4_Pizza {
 

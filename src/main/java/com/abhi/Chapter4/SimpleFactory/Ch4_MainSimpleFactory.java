@@ -1,8 +1,8 @@
-package com.abhi.Chapter4;
+package com.abhi.Chapter4.SimpleFactory;
 
-import com.abhi.Chapter4.Factory.Ch4_SimplePizzaFactory;
+import com.abhi.Chapter4.SimpleFactory.Factory.Ch4_SimplePizzaFactory;
 
-public class Ch4_Main {
+public class Ch4_MainSimpleFactory {
 
     public static void main(String[] args) {
 

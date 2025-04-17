@@ -1,6 +1,6 @@
-package com.abhi.Chapter4.Factory;
+package com.abhi.Chapter4.SimpleFactory.Factory;
 
-import com.abhi.Chapter4.PizzaEntity.*;
+import com.abhi.Chapter4.SimpleFactory.PizzaEntity.*;
 
 public class Ch4_SimplePizzaFactory {
 
